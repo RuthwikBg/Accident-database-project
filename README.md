@@ -14,6 +14,11 @@ We have collected most of our data from reputable sources, including:
 - [San Jose Crash Data 2011-2020](https://data.sanjoseca.gov/dataset/918fb7f0-60c0-484e-b31c-334d1ec74e92/resource/c19a01f2-33e1-4c66-9498-85d489f90da4/download/crashdata2011-2020.csv)
 - [San Jose Vehicle Crash Data 2021-Present](https://data.sanjoseca.gov/dataset/918fb7f0-60c0-484e-b31c-334d1ec74e92/resource/a92d2d50-f8c5-46a3-a0a8-5eaf8b3a865f/download/vehiclecrashdata2021-present.csv)
 
+## Architecture
+
+<img width="874" alt="Screen Shot 2023-10-19 at 4 26 52 PM" src="https://github.com/RuthwikBg/Accident-database-project/assets/113303754/1c92a0be-2c39-4c48-b719-fb2a9dbf97d3">
+
+
 ## Data Cleaning Process
 
 The collected data was audited, cleaned, and validated to ensure its accuracy and completeness. Data cleaning involved:
